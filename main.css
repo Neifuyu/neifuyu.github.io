@@ -1,0 +1,22 @@
+p {
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 90px;
+}
+
+button {
+  border-radius: 45px;
+  background-color: rgb(243, 198, 200);
+  width: 450px;
+  height: 500px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  margin-top: 15px;
+}
+
